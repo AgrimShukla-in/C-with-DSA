@@ -21,13 +21,13 @@ using namespace std;
 // return 0;
 // }
 
-int main(){
-    cout<<"enter your number:"<<endl;
-    int a;
-    cin>>a;
-    cout <<"enter your secend number:"<<endl;
-    int b;
-    cin>>b;
-    cout<<"this is your sum number "<<a+b<<endl;
+// int main(){
+//     cout<<"enter your number:"<<endl;
+//     int a;
+//     cin>>a;
+//     cout <<"enter your secend number:"<<endl;
+//     int b;
+//     cin>>b;
+//     cout<<"this is your sum number "<<a+b<<endl;
 
-}
+// }
